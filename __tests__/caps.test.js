@@ -30,10 +30,6 @@ describe('caps test', () => {
     expect(await consoleSpy).toHaveBeenCalled();
   });
 
-  it('logs for  pickup', async () => {
-    await events.emit('pickup', payload);
-    expect(await consoleSpy).toHaveBeenCalled();
-  });
 
   it('logs for  pickup', async () => {
     await events.emit('pickup', payload);
