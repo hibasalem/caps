@@ -17,14 +17,7 @@ Authentication Server Phase 3: Role Based Access Control
 ---
 
 - ### [PR](https://github.com/hibasalem/caps/pull/1)
-
----
-
-- ### deploy links
-
-  - [deployment](https://hibacaps.herokuapp.com)
-
-  - [tests report](https://github.com/hibasalem/caps/actions)
+- [tests report](https://github.com/hibasalem/caps/actions)
 
 ---
 
